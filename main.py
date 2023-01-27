@@ -130,3 +130,5 @@ while True:
     elif command == 4:
         save_info(filename)
         break
+    
+    #new features one arrray
